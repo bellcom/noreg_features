@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the noregapp feature.
+ */
+
+include_once 'noregapp.features.inc';

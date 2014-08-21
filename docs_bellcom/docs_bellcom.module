@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the docs.bellcom feature.
+ */
+
+include_once 'docs_bellcom.features.inc';

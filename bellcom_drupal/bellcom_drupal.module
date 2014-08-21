@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the Bellcom Drupal feature.
+ */
+
+include_once 'bellcom_drupal.features.inc';
